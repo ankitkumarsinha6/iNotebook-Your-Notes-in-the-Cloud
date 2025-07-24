@@ -1,4 +1,4 @@
-# iNotebook - Your Notes in the Cloud
+# iNotebook - Your Notes in the Cloud (Using React)
 
 ### 🔻 Login UI  
 ![Login](screenshots/fe_login.png)
