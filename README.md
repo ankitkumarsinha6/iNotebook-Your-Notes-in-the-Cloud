@@ -234,7 +234,4 @@ Feel free to fork this repository, create a branch, and submit pull requests. An
 
 ---
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-*(You'll need to create a `LICENSE.md` file in your root directory if you want to include this. A simple MIT license file is very common.)*
