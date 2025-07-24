@@ -1,7 +1,11 @@
 # iNotebook - Your Notes in the Cloud
 
 ### 🔻 Home UI  
-![Homepage](screenshots/fe_login.png)
+![Login](screenshots/fe_login.png)
+![Signup](screenshots/fe_signup.png)
+![Adding A Notes](screenshots/fe_adding_a_notes.png)
+![Fetching A Notes](screenshots/fe_fetching_a_notes.png)
+![Updating A Notes](screenshots/fe_updating_notes.png)
 
 ---
 
