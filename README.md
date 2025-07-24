@@ -3,8 +3,8 @@
 ### 🔻 Home UI  
 ![Login](screenshots/fe_login.png)
 ![Signup](screenshots/fe_signup.png)
-![Adding A Notes](screenshots/fe_adding_a_notes.png)
-![Fetching A Notes](screenshots/fe_fetching_a_notes.png)
+![Adding A Notes](screenshots/fe_adding_a_note.png)
+![Fetching A Notes](screenshots/fe_fetching_notes.png)
 ![Updating A Notes](screenshots/fe_updating_notes.png)
 
 ---
